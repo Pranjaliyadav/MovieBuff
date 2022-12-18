@@ -1,6 +1,7 @@
 # MovieBuff
 Search up your favourite Movies and series.
-Access this site here - 
+
+Access this site here - https://bespoke-torrone-fd1086.netlify.app/
 
 Tech Used - ReactJs, OMDB API, Node.js
 
